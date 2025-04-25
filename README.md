@@ -22,15 +22,15 @@
 
 ### 2. Install modul `colorama`:
 
-```bash
-pip install colorama
+```bash```
+```pip install colorama```
 
 3. Clone dari GitHub:
-git clone https://github.com/electric911-art/Mat-Games
+```git clone https://github.com/electric911-art/Mat-Games```
 
 4. Jalankan program:
 
-python game-metematika.py
+```python game-metematika.py```
 
 📋 Menu Program
 
