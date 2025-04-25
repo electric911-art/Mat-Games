@@ -22,7 +22,7 @@
 
 ### 2. Install modul `colorama`:
 
-```bash```
+``bash
 ```pip install colorama```
 
 3. Clone dari GitHub:
