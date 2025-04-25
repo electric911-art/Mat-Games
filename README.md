@@ -25,7 +25,10 @@
 ```bash
 pip install colorama
 
-3. Jalankan program:
+3. Clone dari GitHub:
+git clone
+
+4. Jalankan program:
 
 python game-metematika.py
 
