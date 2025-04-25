@@ -26,7 +26,7 @@
 pip install colorama
 
 3. Clone dari GitHub:
-git clone
+git clone https://github.com/electric911-art/Mat-Games
 
 4. Jalankan program:
 
